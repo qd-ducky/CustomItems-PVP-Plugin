@@ -12,6 +12,24 @@ Custom Minecraft plugin for creating **custom PvP items with abilities, effects,
 * 📦 Easy-to-edit config
 * 🛠️ Lightweight and performance-focused
 
+<details>
+<summary>📜 Full items list</summary>
+
+```
+DashBlade --> Iron sword with a dash ability upon right clicking
+FrostBlade --> Diamond sword that freezes enemies for a time on hit after its ability has been activated via right clicking
+RageBlade --> Netherite sword with a rage ability activated via right clicking. Gives the player strenght 2 and makes all hits critical hits
+DashMace --> A mace with a dash ability upon right clicking
+SpiderMace --> A mace that has a % chance to web the opponent on hit
+VoidAxe --> A netherite axe that curses enemies with darkness, slowness and blindness on hit after its ability has been activated via right clicking
+SkyPiercer --> A trident that when thrown dashes the player throu the path of the throw dealing damage to all enemies in a certian range
+MagicSwapper --> An egg that swaps the places of 2 players when one of them hits another with it
+
+! Note / All of the cooldowns, durations and damage amounts can be edited in the config.yml
+```
+
+</details>
+
 ---
 
 ## 📥 Download
