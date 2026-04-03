@@ -15,7 +15,7 @@ Custom Minecraft plugin for creating **custom PvP items with abilities, effects,
 <details>
 <summary>📜 Full items list</summary>
 
-```
+
 DashBlade --> Iron sword with a dash ability upon right clicking
 FrostBlade --> Diamond sword that freezes enemies for a time on hit after its ability has been activated via right clicking
 RageBlade --> Netherite sword with a rage ability activated via right clicking. Gives the player strenght 2 and makes all hits critical hits
@@ -26,7 +26,7 @@ SkyPiercer --> A trident that when thrown dashes the player throu the path of th
 MagicSwapper --> An egg that swaps the places of 2 players when one of them hits another with it
 
 ! Note / All of the cooldowns, durations and damage amounts can be edited in the config.yml
-```
+
 
 </details>
 
@@ -145,7 +145,7 @@ items:
 * `skypiercer.give`
 * `swapper.give`
 
-*Note --> A player needs both the command permission and the item permission to be able to recive it via commands.*
+*! Note / A player needs both the command permission and the item permission to be able to recive it via commands.*
 
 ---
 
