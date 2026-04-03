@@ -1,0 +1,42 @@
+name: CustomItems
+version: '${version}'
+main: me.youtu.customitems.CustomItemsPlugin
+api-version: '1.21.11'
+author: Youtu
+description: Custom combat items converted from Skript into a Paper plugin.
+
+commands:
+  customitem:
+    description: Gives a custom item.
+    usage: /customitem <frostblade|rageblade|dashblade|dashmace|voidaxe|spidermace|skypiercer|magicswapper>
+    permission: customitem.use
+    aliases: [ci]
+
+permissions:
+  customitem.use:
+    description: Allows using /customitem.
+    default: op
+  frost.give:
+    description: Allows receiving the Frostbound Blade.
+    default: op
+  rage.give:
+    description: Allows receiving the Crimson Rageblade.
+    default: op
+  swiftwind.give:
+    description: Allows receiving the Swiftwind Blade.
+    default: op
+  dashmace.give:
+    description: Allows receiving the Dash Mace.
+    default: op
+  void.give:
+    description: Allows receiving the Void Axe.
+    default: op
+  spider.give:
+    description: Allows receiving the Spider Mace.
+    default: op
+  skypiercer.give:
+    description: Allows receiving the Sky Piercer.
+    default: op
+  swapper.give:
+    description: Allows receiving the Magic Swapper.
+    default: op

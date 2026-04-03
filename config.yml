@@ -1,0 +1,42 @@
+items:
+  frostblade:
+    name: "&b&l❄ Frostbound Blade"
+    cooldown-seconds: 25
+    freeze-seconds: 5
+
+  rageblade:
+    name: "&4&l⚔ Crimson Rageblade"
+    duration-seconds: 10
+    cooldown-seconds: 25
+
+  dashblade:
+    name: "&f&l🪶 Swiftwind Blade"
+    cooldown-seconds: 15
+    speed: 3.5
+    trail-count: 25
+
+  dashmace:
+    name: "&f&l🔨 Dash Mace"
+    cooldown-seconds: 15
+    speed: 3.2
+    trail-count: 18
+
+  voidaxe:
+    name: "&8&l🌙 Void Axe"
+    duration-seconds: 10
+    cooldown-seconds: 20
+
+  spidermace:
+    name: "&7&l🕷 &7&lS&8&lp&f&li&7&ld&8&le&f&lr &f&lM&7&la&8&lc&f&le"
+    web-chance-percent: 50
+
+  skypiercer:
+    name: "&b&l☁ Sky &3&lPiercer 🗡"
+    limit-blocks: 8
+    raw-damage: 9.0
+    radius: 2.0
+    cooldown-seconds: 25
+
+  magicswapper:
+    name: "&9&l🔮 Magic Swapper"
+    cooldown-seconds: 3
