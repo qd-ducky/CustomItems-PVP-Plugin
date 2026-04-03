@@ -13,7 +13,7 @@ Custom Minecraft plugin for creating **custom PvP items with abilities, effects,
 * 🛠️ Lightweight and performance-focused
 
 <details>
-<summary>📜 Full items list</summary>
+<summary>### 📜 Full items list</summary>
 
 
 * DashBlade --> Iron sword with a dash ability upon right clicking
